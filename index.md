@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-**Nic Bravo** is an identity of convenience I use for certain roles online. I keep my public profile pretty bare intentionally. 
+**Nic Bravo** is an identity of convenience I use for certain roles online. I keep my public profile pretty bare intentionally. In real life I'm a trans dyke living in Toronto.
 
 # 🐶
 
