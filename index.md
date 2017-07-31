@@ -16,3 +16,4 @@ You may know me by another name---keep it to yourself.
 	* Especially: trans women, gay people, BIPOC folks
 	* But if you've got more money than me you should pay me
 	* hmu [nic@nicbravo.com](mailto:nic@nicbravo.com)
+* Please install software updates and back up your files. 
