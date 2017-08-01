@@ -7,7 +7,7 @@ layout: default
 
 # 🐶
 
-You may know me by another name---keep it to yourself.
+You may know me by another name---keep it to yourself!
 
 **Currently:**
 
@@ -17,3 +17,4 @@ You may know me by another name---keep it to yourself.
 	* But if you've got more money than me you should pay me
 	* hmu [nic@nicbravo.com](mailto:nic@nicbravo.com)
 * Please install software updates and back up your files. 
+
